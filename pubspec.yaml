@@ -36,20 +36,28 @@ dependencies:
   cupertino_icons: ^1.0.8
   epub_awesome:
     path: ./packages/epub_awesome
-  internet_file: ^1.2.0
-  # epub_awesome:
-  #   path: ../my_local_package  # Path to the local package directory
+  awesome_epub:
+    path: ./packages/awesome_epub
+
+  # internet_file: ^1.2.0
+
+  flutter_riverpod: ^2.5.1
+  riverpod_annotation: ^2.3.5
+  freezed_annotation: ^2.4.4
+  json_annotation: ^4.9.0
+  flutter_html: ^3.0.0-beta.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-  # The "flutter_lints" package below contains a set of recommended lints to
-  # encourage good coding practices. The lint set provided by the package is
-  # activated in the `analysis_options.yaml` file located at the root of your
-  # package. See that file for information about deactivating specific lint
-  # rules and activating additional ones.
   flutter_lints: ^5.0.0
+
+  riverpod_generator: ^2.4.3
+  build_runner: ^2.4.13
+  custom_lint: ^0.6.7
+  riverpod_lint: ^2.3.13
+  freezed: ^2.5.7
+  json_serializable: ^6.8.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
