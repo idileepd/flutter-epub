@@ -10,9 +10,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  epubx: ^4.0.0
   flutter_html: ^3.0.0-beta.2
   http: ^1.2.2
+  epub_plus: ^5.0.1
 
   #
   flutter_riverpod: ^2.5.1

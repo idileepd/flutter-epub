@@ -1,4 +1,4 @@
-import 'package:epubx/epubx.dart';
+import 'package:epub_plus/epub_plus.dart';
 
 class EPubState {
   final bool isLoading;

@@ -29,8 +29,8 @@
 // }
 
 import 'package:awesome_epub/src/epub_state.dart';
+import 'package:epub_plus/epub_plus.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:epubx/epubx.dart';
 
 class EPubController extends StateNotifier<EPubState> {
   EPubController() : super(EPubState.initial());

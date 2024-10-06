@@ -1,6 +1,6 @@
 import 'package:awesome_epub/src/epub_content.dart';
 import 'package:awesome_epub/src/provider.dart';
-import 'package:epubx/epubx.dart';
+import 'package:epub_plus/epub_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

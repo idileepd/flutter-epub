@@ -1,6 +1,6 @@
+import 'package:epub_plus/epub_plus.dart';
 import 'package:flutter/services.dart' show ByteData, rootBundle;
 import 'package:http/http.dart' as http;
-import 'package:epubx/epubx.dart';
 import 'dart:io';
 
 abstract class EPubLoader {
