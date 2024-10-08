@@ -38,6 +38,7 @@ dependencies:
     path: ./packages/epub_awesome
   awesome_epub:
     path: ./packages/awesome_epub
+  path: ^1.8.0
 
   # internet_file: ^1.2.0
 
